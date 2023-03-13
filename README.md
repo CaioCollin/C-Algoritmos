@@ -10,4 +10,3 @@ Usei o Quick_Sort com o pivo pegando o meio .
  
  
 
-
